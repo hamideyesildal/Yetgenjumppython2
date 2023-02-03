@@ -1,2 +1,3 @@
 # Yetgenjumppython2
-bu repo Jump Python için açılmıştır
+bu repoyu yeni Jump içerikleri için oluşturduk.
+Bu eğitimin 1.haftası.
